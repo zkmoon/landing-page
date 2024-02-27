@@ -64,7 +64,7 @@ a {
 
 .main-text {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #f9faf8;
     text-align: left;
     margin-top: 0;
@@ -93,6 +93,27 @@ button {
     width:auto;
     padding: 70px;
     background-color: grey;
+}
+
+.middle-top {
+    padding-top: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.img-items {
+    flex: 1;
 }
 /* footer css */
 .footer {
