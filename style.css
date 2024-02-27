@@ -1,3 +1,4 @@
+/* header css */
 .header {
     display: flex;
     background-color: #1f2937;
@@ -28,3 +29,16 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+/* footer css */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    text-align: center;
+  }
