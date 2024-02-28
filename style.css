@@ -141,6 +141,45 @@ button {
     color: #1f2937;
     text-align: right;
 }
+
+.bottom {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.blue-box {
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.blue-box div {
+    flex: 1;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.bottom-text {
+    margin-left: 200px;
+    padding-right: 30px;
+}
+
+.message-1 {
+    text-align: left;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.message-2 {
+    text-align: left;
+    padding-top: 0;
+    margin-top: 0;
+}
+
 /* footer css */
 .footer {
     position: fixed;
